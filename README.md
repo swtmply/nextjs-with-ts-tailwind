@@ -28,7 +28,7 @@ The `pages/api` directory is mapped to `/api/*`. Files in this directory are tre
 
 ## Why I chose these techs
 
-I have a lot researches done before choosing these, it may change over the course of my journey. But, for now this is my stack, I guess.
+I have a lot of researches done before choosing these, it may change over the course of my journey. But, for now this is my stack, I guess.
 
 - [NextJS with Typescript](https://nextjs.org/docs/basic-features/typescript) - learn about Next.js typescript.
 - [TailwindCSS](https://tailwindcss.com/) - A utility-first CSS framework.
