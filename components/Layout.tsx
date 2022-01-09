@@ -8,7 +8,7 @@ export default function Layout({
   return (
     <div className="bg-slate-50 grid place-items-center">
       <Head>
-        <title>{title}</title>
+        <title>{title || NextJS Typescript with TailwindCSS 3.0}</title>
       </Head>
 
       <div className="w-[800px] bg-slate-100 min-h-screen p-4">
